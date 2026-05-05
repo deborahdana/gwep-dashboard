@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GWEP Marketing Dashboard</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="container">
+      <h1>GWEP Cumbres Herradura Dashboard</h1>
+      <p class="subtle">Weekly KPI and Channel Performance</p>
+    </header>
+
+    <main class="container">
+      <section class="grid">
+        <article class="card">
+          <h3>CPL</h3>
+          <p id="kpi-cpl" class="metric">-</p>
+        </article>
+        <article class="card">
+          <h3>CAC</h3>
+          <p id="kpi-cac" class="metric">-</p>
+        </article>
+        <article class="card">
+          <h3>Lead to Sale</h3>
+          <p id="kpi-lts" class="metric">-</p>
+        </article>
+        <article class="card">
+          <h3>ROAS</h3>
+          <p id="kpi-roas" class="metric">-</p>
+        </article>
+        <article class="card">
+          <h3>Closing Velocity</h3>
+          <p id="kpi-velocity" class="metric">-</p>
+        </article>
+      </section>
+
+      <section class="card">
+        <h2>Latest Weekly KPI Row</h2>
+        <div id="latest-week-meta" class="subtle"></div>
+        <div class="table-wrap">
+          <table id="weekly-kpi-table"></table>
+        </div>
+      </section>
+
+      <section class="card">
+        <h2>Channel Performance (Latest Week)</h2>
+        <div class="table-wrap">
+          <table id="channel-table"></table>
+        </div>
+      </section>
+
+      <section class="card">
+        <h2>Budget Recommendations (Latest Week)</h2>
+        <div class="table-wrap">
+          <table id="recommendation-table"></table>
+        </div>
+      </section>
+    </main>
+
+    <footer class="container subtle">
+      Data sources: <code>GWEP/insights/*.csv</code>
+    </footer>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
