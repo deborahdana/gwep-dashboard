@@ -16,7 +16,9 @@ python3 -m http.server 8000
 
 Then open:
 
-- `http://localhost:8000/dashboard-site/`
+- `http://localhost:8000/docs/`
+
+GitHub Pages only supports publishing from **`/` (root)** or **`/docs`**. This site lives in **`docs/`** so you choose **`/docs`** in Pages settings—not a custom folder name like `dashboard-site`.
 
 ## Publish to GitHub Pages
 
@@ -25,8 +27,8 @@ Then open:
 3. In "Build and deployment", choose:
    - **Source:** Deploy from a branch
    - **Branch:** `main`
-   - **Folder:** `/dashboard-site`
-4. Save, wait 1-2 minutes, then open your Pages URL.
+   - **Folder:** `/docs`
+4. Save, wait 1-2 minutes, then open your Pages URL (for project repos: `https://<user>.github.io/<repo>/`).
 
 ## Keep dashboard updated
 
