@@ -1,6 +1,12 @@
 # Dashboard Site (Shareable Webpage)
 
-This static site reads CSV from **`docs/insights/`** (copied from `GWEP/insights/` so GitHub Pages can load them from the same origin). After updating weekly KPI files under `GWEP/insights/`, copy them into `docs/insights/` and push.
+This static site reads CSV from **`docs/insights/`** (copied from `GWEP/insights/` so GitHub Pages can load them from the same origin). Regenerate from data exports (cohort report + HubSpot leads):
+
+```bash
+python3 GWEP/analysis/build_insights_from_data.py
+```
+
+That refreshes both `GWEP/insights/` and `docs/insights/`. Then commit and push.
 
 Files:
 

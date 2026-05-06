@@ -1,4 +1,145 @@
 week_start,week_end,channel,spend,leads,qualified_leads,new_customers,attributed_revenue,cpl,cac,lead_to_sale_rate,roas,efficiency_score,quality_score,scale_score,total_score,notes
-2026-05-04,2026-05-10,meta,0,0,0,0,0,,,,,,,,Initial baseline
-2026-05-04,2026-05-10,google,0,0,0,0,0,,,,,,,,Initial baseline
-2026-05-04,2026-05-10,organic,0,0,0,0,0,,,,,,,,Initial baseline
+2025-05-01,2025-05-07,meta,41075,231,1,0,,177.81,,0,,100,0,77,59.2,Spend-split proxy for paid; organic from HubSpot fuente
+2025-05-01,2025-05-07,google,12200,68,,0,,179.41,,0,,100,0,22.7,45.7,Spend-split proxy for paid; organic from HubSpot fuente
+2025-05-01,2025-05-07,organic,0,5,,0,,,,0,,,0,1.7,,Organic = redes + búsqueda orgánica
+2025-05-08,2025-05-14,meta,41253,164,2,0,,251.54,,0,,81,0,54.7,46.1,Spend-split proxy for paid; organic from HubSpot fuente
+2025-05-08,2025-05-14,google,16715,67,,0,,249.48,,0,,81.7,0,22.3,38.3,Spend-split proxy for paid; organic from HubSpot fuente
+2025-05-08,2025-05-14,organic,0,6,,0,,,,0,,,0,2,,Organic = redes + búsqueda orgánica
+2025-05-15,2025-05-21,meta,40573,180,0,1,,225.41,40573,0.005556,,90.4,2.8,60,52.1,Spend-split proxy for paid; organic from HubSpot fuente
+2025-05-15,2025-05-21,google,16985,75,,0,,226.47,,0,,90,0,25,42.2,Spend-split proxy for paid; organic from HubSpot fuente
+2025-05-15,2025-05-21,organic,0,1,,0,,,,0,,,0,0.3,,Organic = redes + búsqueda orgánica
+2025-05-22,2025-05-28,meta,40336,173,0,1,,233.16,40336,0.00578,,87.4,2.9,57.7,50.4,Spend-split proxy for paid; organic from HubSpot fuente
+2025-05-22,2025-05-28,google,16987,73,,1,,232.7,16987,0.013699,,87.6,6.8,24.3,43.5,Spend-split proxy for paid; organic from HubSpot fuente
+2025-05-22,2025-05-28,organic,0,4,,0,,,,0,,,0,1.3,,Organic = redes + búsqueda orgánica
+2025-05-29,2025-06-04,meta,38304,155,4,1,,247.12,38304,0.006452,,82.5,3.2,51.7,47,Spend-split proxy for paid; organic from HubSpot fuente
+2025-05-29,2025-06-04,google,16144,65,,0,,248.37,,0,,82,0,21.7,38.2,Spend-split proxy for paid; organic from HubSpot fuente
+2025-05-29,2025-06-04,organic,0,10,,0,,,,0,,,0,3.3,,Organic = redes + búsqueda orgánica
+2025-06-05,2025-06-11,meta,45929,184,1,0,,249.61,,0,,81.6,0,61.3,48,Spend-split proxy for paid; organic from HubSpot fuente
+2025-06-05,2025-06-11,google,15745,63,,0,,249.92,,0,,81.5,0,21,37.9,Spend-split proxy for paid; organic from HubSpot fuente
+2025-06-05,2025-06-11,organic,0,7,,0,,,,0,,,0,2.3,,Organic = redes + búsqueda orgánica
+2025-06-12,2025-06-18,meta,42146,211,1,2,,199.74,21073,0.009479,,100,4.7,70.3,59.2,Spend-split proxy for paid; organic from HubSpot fuente
+2025-06-12,2025-06-18,google,15923,80,,1,,199.04,15923,0.0125,,100,6.2,26.7,48.8,Spend-split proxy for paid; organic from HubSpot fuente
+2025-06-12,2025-06-18,organic,0,8,,0,,,,0,,,0,2.7,,Organic = redes + búsqueda orgánica
+2025-06-19,2025-06-25,meta,41165,192,0,1,,214.4,41165,0.005208,,95,2.6,64,54.9,Spend-split proxy for paid; organic from HubSpot fuente
+2025-06-19,2025-06-25,google,14641,68,,1,,215.31,14641,0.014706,,94.6,7.4,22.7,46.1,Spend-split proxy for paid; organic from HubSpot fuente
+2025-06-19,2025-06-25,organic,0,6,,0,,,,0,,,0,2,,Organic = redes + búsqueda orgánica
+2025-06-26,2025-07-02,meta,38761,194,7,0,,199.8,,0,,100,0,64.7,56.2,Spend-split proxy for paid; organic from HubSpot fuente
+2025-06-26,2025-07-02,google,14616,73,,0,,200.22,,0,,100,0,24.3,46.1,Spend-split proxy for paid; organic from HubSpot fuente
+2025-06-26,2025-07-02,organic,0,7,,0,,,,0,,,0,2.3,,Organic = redes + búsqueda orgánica
+2025-07-03,2025-07-09,meta,41799,153,8,1,,273.2,41799,0.006536,,74.6,3.3,51,43.7,Spend-split proxy for paid; organic from HubSpot fuente
+2025-07-03,2025-07-09,google,15287,56,,1,,272.98,15287,0.017857,,74.7,8.9,18.7,37.7,Spend-split proxy for paid; organic from HubSpot fuente
+2025-07-03,2025-07-09,organic,0,8,,0,,,,0,,,0,2.7,,Organic = redes + búsqueda orgánica
+2025-07-10,2025-07-16,meta,41223,209,14,1,,197.24,41223,0.004785,,100,2.4,69.7,58.3,Spend-split proxy for paid; organic from HubSpot fuente
+2025-07-10,2025-07-16,google,14296,73,,0,,195.84,,0,,100,0,24.3,46.1,Spend-split proxy for paid; organic from HubSpot fuente
+2025-07-10,2025-07-16,organic,0,10,,0,,,,0,,,0,3.3,,Organic = redes + búsqueda orgánica
+2025-07-17,2025-07-23,meta,42108,217,6,1,,194.05,42108,0.004608,,100,2.3,72.3,58.9,Spend-split proxy for paid; organic from HubSpot fuente
+2025-07-17,2025-07-23,google,12378,64,,0,,193.41,,0,,100,0,21.3,45.3,Spend-split proxy for paid; organic from HubSpot fuente
+2025-07-17,2025-07-23,organic,0,11,,0,,,,0,,,0,3.7,,Organic = redes + búsqueda orgánica
+2025-07-24,2025-07-30,meta,40217,189,2,1,,212.79,40217,0.005291,,95.8,2.6,63,55,Spend-split proxy for paid; organic from HubSpot fuente
+2025-07-24,2025-07-30,google,12054,56,,0,,215.25,,0,,94.7,0,18.7,42.6,Spend-split proxy for paid; organic from HubSpot fuente
+2025-07-24,2025-07-30,organic,0,7,,0,,,,0,,,0,2.3,,Organic = redes + búsqueda orgánica
+2025-07-31,2025-08-06,meta,34256,153,5,1,,223.9,34256,0.006536,,91,3.3,51,50.3,Spend-split proxy for paid; organic from HubSpot fuente
+2025-07-31,2025-08-06,google,12935,58,,0,,223.02,,0,,91.4,0,19.3,41.4,Spend-split proxy for paid; organic from HubSpot fuente
+2025-07-31,2025-08-06,organic,0,5,,0,,,,0,,,0,1.7,,Organic = redes + búsqueda orgánica
+2025-08-07,2025-08-13,meta,36035,151,4,3,,238.64,12011.67,0.019868,,85.4,9.9,50.3,50.2,Spend-split proxy for paid; organic from HubSpot fuente
+2025-08-07,2025-08-13,google,14927,62,,1,,240.76,14927,0.016129,,84.6,8.1,20.7,41.8,Spend-split proxy for paid; organic from HubSpot fuente
+2025-08-07,2025-08-13,organic,0,8,,0,,,,0,,,0,2.7,,Organic = redes + búsqueda orgánica
+2025-08-14,2025-08-20,meta,44108,141,8,1,,312.82,44108,0.007092,,65.1,3.5,47,39,Spend-split proxy for paid; organic from HubSpot fuente
+2025-08-14,2025-08-20,google,15219,48,,0,,317.06,,0,,64.3,0,16,29.7,Spend-split proxy for paid; organic from HubSpot fuente
+2025-08-14,2025-08-20,organic,0,4,,0,,,,0,,,0,1.3,,Organic = redes + búsqueda orgánica
+2025-08-21,2025-08-27,meta,45006,177,7,2,,254.27,22503,0.011299,,80.1,5.6,59,48.8,Spend-split proxy for paid; organic from HubSpot fuente
+2025-08-21,2025-08-27,google,12583,50,,0,,251.66,,0,,81,0,16.7,36.6,Spend-split proxy for paid; organic from HubSpot fuente
+2025-08-21,2025-08-27,organic,0,6,,0,,,,0,,,0,2,,Organic = redes + búsqueda orgánica
+2025-08-28,2025-09-03,meta,42588,141,7,1,,302.04,42588,0.007092,,67.5,3.5,47,40,Spend-split proxy for paid; organic from HubSpot fuente
+2025-08-28,2025-09-03,google,14277,47,,0,,303.77,,0,,67.1,0,15.7,30.8,Spend-split proxy for paid; organic from HubSpot fuente
+2025-08-28,2025-09-03,organic,0,6,,0,,,,0,,,0,2,,Organic = redes + búsqueda orgánica
+2025-09-04,2025-09-10,meta,50480,175,11,0,,288.46,,0,,70.6,0,58.3,42.8,Spend-split proxy for paid; organic from HubSpot fuente
+2025-09-04,2025-09-10,google,16965,59,,0,,287.54,,0,,70.9,0,19.7,33.3,Spend-split proxy for paid; organic from HubSpot fuente
+2025-09-04,2025-09-10,organic,0,9,,0,,,,0,,,0,3,,Organic = redes + búsqueda orgánica
+2025-09-11,2025-09-17,meta,47806,136,10,0,,351.51,,0,,58,0,45.3,34.5,Spend-split proxy for paid; organic from HubSpot fuente
+2025-09-11,2025-09-17,google,16541,47,,0,,351.94,,0,,57.9,0,15.7,27.1,Spend-split proxy for paid; organic from HubSpot fuente
+2025-09-11,2025-09-17,organic,0,13,,0,,,,0,,,0,4.3,,Organic = redes + búsqueda orgánica
+2025-09-18,2025-09-24,meta,54070,184,17,0,,293.86,,0,,69.3,0,61.3,43,Spend-split proxy for paid; organic from HubSpot fuente
+2025-09-18,2025-09-24,google,13022,44,,0,,295.95,,0,,68.9,0,14.7,31.2,Spend-split proxy for paid; organic from HubSpot fuente
+2025-09-18,2025-09-24,organic,0,12,,0,,,,0,,,0,4,,Organic = redes + búsqueda orgánica
+2025-09-25,2025-10-01,meta,17913,129,12,0,,138.86,,0,,100,0,43,50.8,Spend-split proxy for paid; organic from HubSpot fuente
+2025-09-25,2025-10-01,google,9545,69,,0,,138.33,,0,,100,0,23,45.8,Spend-split proxy for paid; organic from HubSpot fuente
+2025-09-25,2025-10-01,organic,0,5,,0,,,,0,,,0,1.7,,Organic = redes + búsqueda orgánica
+2025-10-02,2025-10-08,meta,38644,184,14,1,,210.02,38644,0.005435,,97,2.7,61.3,55.1,Spend-split proxy for paid; organic from HubSpot fuente
+2025-10-02,2025-10-08,google,6582,31,,0,,212.32,,0,,96,0,10.3,41,Spend-split proxy for paid; organic from HubSpot fuente
+2025-10-02,2025-10-08,organic,0,6,,0,,,,0,,,0,2,,Organic = redes + búsqueda orgánica
+2025-10-09,2025-10-15,meta,40718,135,14,0,,301.61,,0,,67.6,0,45,38.3,Spend-split proxy for paid; organic from HubSpot fuente
+2025-10-09,2025-10-15,google,5519,18,,0,,306.61,,0,,66.5,0,6,28.1,Spend-split proxy for paid; organic from HubSpot fuente
+2025-10-09,2025-10-15,organic,0,5,,0,,,,0,,,0,1.7,,Organic = redes + búsqueda orgánica
+2025-10-16,2025-10-22,meta,34852,162,10,1,,215.14,34852,0.006173,,94.7,3.1,54,52.5,Spend-split proxy for paid; organic from HubSpot fuente
+2025-10-16,2025-10-22,google,5202,24,,0,,216.75,,0,,94,0,8,39.6,Spend-split proxy for paid; organic from HubSpot fuente
+2025-10-16,2025-10-22,organic,0,8,,0,,,,0,,,0,2.7,,Organic = redes + búsqueda orgánica
+2025-10-23,2025-10-29,meta,37585,164,6,0,,229.18,,0,,88.9,0,54.7,49.2,Spend-split proxy for paid; organic from HubSpot fuente
+2025-10-23,2025-10-29,google,4461,20,,0,,223.05,,0,,91.4,0,6.7,38.2,Spend-split proxy for paid; organic from HubSpot fuente
+2025-10-23,2025-10-29,organic,0,1,,0,,,,0,,,0,0.3,,Organic = redes + búsqueda orgánica
+2025-10-30,2025-11-05,meta,36881,141,5,0,,261.57,,0,,77.9,0,47,42.9,Spend-split proxy for paid; organic from HubSpot fuente
+2025-10-30,2025-11-05,google,3812,15,,0,,254.13,,0,,80.2,0,5,33.3,Spend-split proxy for paid; organic from HubSpot fuente
+2025-10-30,2025-11-05,organic,0,3,,0,,,,0,,,0,1,,Organic = redes + búsqueda orgánica
+2025-11-06,2025-11-12,meta,38994,163,10,1,,239.23,38994,0.006135,,85.2,3.1,54.3,48.7,Spend-split proxy for paid; organic from HubSpot fuente
+2025-11-06,2025-11-12,google,3662,15,,0,,244.13,,0,,83.5,0,5,34.6,Spend-split proxy for paid; organic from HubSpot fuente
+2025-11-06,2025-11-12,organic,0,4,,0,,,,0,,,0,1.3,,Organic = redes + búsqueda orgánica
+2025-11-13,2025-11-19,meta,33996,159,9,1,,213.81,33996,0.006289,,95.3,3.1,53,52.5,Spend-split proxy for paid; organic from HubSpot fuente
+2025-11-13,2025-11-19,google,4421,21,,0,,210.52,,0,,96.8,0,7,40.5,Spend-split proxy for paid; organic from HubSpot fuente
+2025-11-13,2025-11-19,organic,0,3,,0,,,,0,,,0,1,,Organic = redes + búsqueda orgánica
+2025-11-20,2025-11-26,meta,44880,224,17,2,,200.36,22440,0.008929,,100,4.5,74.7,60.2,Spend-split proxy for paid; organic from HubSpot fuente
+2025-11-20,2025-11-26,google,7395,37,,0,,199.86,,0,,100,0,12.3,43.1,Spend-split proxy for paid; organic from HubSpot fuente
+2025-11-20,2025-11-26,organic,0,5,,0,,,,0,,,0,1.7,,Organic = redes + búsqueda orgánica
+2025-11-27,2025-12-03,meta,40569,207,13,1,,195.99,40569,0.004831,,100,2.4,69,58.1,Spend-split proxy for paid; organic from HubSpot fuente
+2025-11-27,2025-12-03,google,9146,47,,0,,194.6,,0,,100,0,15.7,43.9,Spend-split proxy for paid; organic from HubSpot fuente
+2025-11-27,2025-12-03,organic,0,4,,0,,,,0,,,0,1.3,,Organic = redes + búsqueda orgánica
+2025-12-04,2025-12-10,meta,39278,191,11,0,,205.64,,0,,99.1,0,63.7,55.6,Spend-split proxy for paid; organic from HubSpot fuente
+2025-12-04,2025-12-10,google,9247,45,,0,,205.49,,0,,99.2,0,15,43.4,Spend-split proxy for paid; organic from HubSpot fuente
+2025-12-04,2025-12-10,organic,0,3,,0,,,,0,,,0,1,,Organic = redes + búsqueda orgánica
+2025-12-11,2025-12-17,meta,39019,183,135,0,,213.22,,0,,95.6,0,61,53.5,Spend-split proxy for paid; organic from HubSpot fuente
+2025-12-11,2025-12-17,google,11690,55,,0,,212.55,,0,,95.9,0,18.3,42.9,Spend-split proxy for paid; organic from HubSpot fuente
+2025-12-11,2025-12-17,organic,0,2,,0,,,,0,,,0,0.7,,Organic = redes + búsqueda orgánica
+2025-12-18,2025-12-24,meta,38420,176,135,1,,218.3,38420,0.005682,,93.4,2.8,58.7,53,Spend-split proxy for paid; organic from HubSpot fuente
+2025-12-18,2025-12-24,google,12067,55,,0,,219.4,,0,,92.9,0,18.3,41.7,Spend-split proxy for paid; organic from HubSpot fuente
+2025-12-18,2025-12-24,organic,0,9,,0,,,,0,,,0,3,,Organic = redes + búsqueda orgánica
+2025-12-25,2025-12-31,meta,42054,265,157,2,,158.69,21027,0.007547,,100,3.8,88.3,63.4,Spend-split proxy for paid; organic from HubSpot fuente
+2025-12-25,2025-12-31,google,8450,53,,0,,159.43,,0,,100,0,17.7,44.4,Spend-split proxy for paid; organic from HubSpot fuente
+2025-12-25,2025-12-31,organic,0,4,,0,,,,0,,,0,1.3,,Organic = redes + búsqueda orgánica
+2026-01-01,2026-01-07,meta,55695,97,60,1,,574.18,55695,0.010309,,35.5,5.2,32.3,24.1,Spend-split proxy for paid; organic from HubSpot fuente
+2026-01-01,2026-01-07,google,8343,15,,0,,556.2,,0,,36.6,0,5,15.9,Spend-split proxy for paid; organic from HubSpot fuente
+2026-01-01,2026-01-07,organic,0,1,,0,,,,0,,,0,0.3,,Organic = redes + búsqueda orgánica
+2026-01-08,2026-01-14,meta,61610,112,18,1,,550.09,61610,0.008929,,37,4.5,37.3,25.7,Spend-split proxy for paid; organic from HubSpot fuente
+2026-01-08,2026-01-14,google,7531,14,,0,,537.93,,0,,37.9,0,4.7,16.3,Spend-split proxy for paid; organic from HubSpot fuente
+2026-01-08,2026-01-14,organic,0,5,,0,,,,0,,,0,1.7,,Organic = redes + búsqueda orgánica
+2026-01-15,2026-01-21,meta,60452,145,39,1,,416.91,60452,0.006897,,48.9,3.4,48.3,32.8,Spend-split proxy for paid; organic from HubSpot fuente
+2026-01-15,2026-01-21,google,7222,17,,0,,424.82,,0,,48,0,5.7,20.6,Spend-split proxy for paid; organic from HubSpot fuente
+2026-01-15,2026-01-21,organic,0,5,,0,,,,0,,,0,1.7,,Organic = redes + búsqueda orgánica
+2026-01-22,2026-01-28,meta,60115,149,37,1,,403.46,60115,0.006711,,50.5,3.4,49.7,33.8,Spend-split proxy for paid; organic from HubSpot fuente
+2026-01-22,2026-01-28,google,7847,19,,0,,413,,0,,49.3,0,6.3,21.3,Spend-split proxy for paid; organic from HubSpot fuente
+2026-01-22,2026-01-28,organic,0,0,,0,,,,,,,,,,Organic = redes + búsqueda orgánica
+2026-01-29,2026-02-04,meta,60069,146,41,0,,411.43,,0,,49.5,0,48.7,32,Spend-split proxy for paid; organic from HubSpot fuente
+2026-01-29,2026-02-04,google,10332,25,,0,,413.28,,0,,49.3,0,8.3,21.8,Spend-split proxy for paid; organic from HubSpot fuente
+2026-01-29,2026-02-04,organic,0,5,,0,,,,0,,,0,1.7,,Organic = redes + búsqueda orgánica
+2026-02-05,2026-02-11,meta,57045,136,13,0,,419.45,,0,,48.6,0,45.3,30.8,Spend-split proxy for paid; organic from HubSpot fuente
+2026-02-05,2026-02-11,google,14632,35,,0,,418.06,,0,,48.7,0,11.7,22.4,Spend-split proxy for paid; organic from HubSpot fuente
+2026-02-05,2026-02-11,organic,0,2,,0,,,,0,,,0,0.7,,Organic = redes + búsqueda orgánica
+2026-02-12,2026-02-18,meta,58083,128,20,2,,453.77,29041.5,0.015625,,44.9,7.8,42.7,31.4,Spend-split proxy for paid; organic from HubSpot fuente
+2026-02-12,2026-02-18,google,10198,23,,0,,443.39,,0,,46,0,7.7,20.3,Spend-split proxy for paid; organic from HubSpot fuente
+2026-02-12,2026-02-18,organic,0,3,,0,,,,0,,,0,1,,Organic = redes + búsqueda orgánica
+2026-02-19,2026-02-25,meta,66589,164,21,1,,406.03,66589,0.006098,,50.2,3,54.7,34.8,Spend-split proxy for paid; organic from HubSpot fuente
+2026-02-19,2026-02-25,google,2826,7,,0,,403.71,,0,,50.5,0,2.3,20.8,Spend-split proxy for paid; organic from HubSpot fuente
+2026-02-19,2026-02-25,organic,0,3,,0,,,,0,,,0,1,,Organic = redes + búsqueda orgánica
+2026-02-26,2026-03-04,meta,65128,173,21,0,,376.46,,0,,54.1,0,57.7,36.1,Spend-split proxy for paid; organic from HubSpot fuente
+2026-02-26,2026-03-04,google,2818,8,,0,,352.25,,0,,57.9,0,2.7,23.8,Spend-split proxy for paid; organic from HubSpot fuente
+2026-02-26,2026-03-04,organic,0,3,,0,,,,0,,,0,1,,Organic = redes + búsqueda orgánica
+2026-03-05,2026-03-11,meta,93258,205,57,0,,454.92,,0,,44.8,0,68.3,35,Spend-split proxy for paid; organic from HubSpot fuente
+2026-03-05,2026-03-11,google,6559,14,,0,,468.5,,0,,43.5,0,4.7,18.6,Spend-split proxy for paid; organic from HubSpot fuente
+2026-03-05,2026-03-11,organic,0,2,,0,,,,0,,,0,0.7,,Organic = redes + búsqueda orgánica
+2026-03-12,2026-03-18,meta,69673,176,74,0,,395.87,,0,,51.5,0,58.7,35.3,Spend-split proxy for paid; organic from HubSpot fuente
+2026-03-12,2026-03-18,google,6833,17,,0,,401.94,,0,,50.7,0,5.7,21.7,Spend-split proxy for paid; organic from HubSpot fuente
+2026-03-12,2026-03-18,organic,0,0,,0,,,,,,,,,,Organic = redes + búsqueda orgánica
+2026-03-19,2026-03-25,meta,69408,155,85,0,,447.79,,0,,45.5,0,51.7,31.1,Spend-split proxy for paid; organic from HubSpot fuente
+2026-03-19,2026-03-25,google,6270,14,,0,,447.86,,0,,45.5,0,4.7,19.4,Spend-split proxy for paid; organic from HubSpot fuente
+2026-03-19,2026-03-25,organic,0,1,,0,,,,0,,,0,0.3,,Organic = redes + búsqueda orgánica
+2026-03-26,2026-03-31,meta,57800,168,87,0,,344.05,,0,,59.2,0,56,37.7,Spend-split proxy for paid; organic from HubSpot fuente
+2026-03-26,2026-03-31,google,3657,11,,0,,332.45,,0,,61.3,0,3.7,25.4,Spend-split proxy for paid; organic from HubSpot fuente
+2026-03-26,2026-03-31,organic,0,1,,0,,,,0,,,0,0.3,,Organic = redes + búsqueda orgánica

@@ -1,4 +1,4 @@
 week_start,week_end,channel,current_budget,recommended_budget_change_percent,recommendation,primary_reason,expected_leads_impact,expected_sales_impact,confidence,owner,next_review_date
-2026-05-04,2026-05-10,meta,0,0,keep_budget,No historical data yet,0,0,low,marketing_lead,2026-05-11
-2026-05-04,2026-05-10,google,0,0,keep_budget,No historical data yet,0,0,low,marketing_lead,2026-05-11
-2026-05-04,2026-05-10,organic,0,0,keep_budget,No historical data yet,0,0,low,marketing_lead,2026-05-11
+2026-03-26,2026-03-31,meta,57800,0,keep_budget,Volume healthy; tune creatives,0%, steady,medium,marketing_lead,
+2026-03-26,2026-03-31,google,3657,0,keep_budget,Monitor search intent quality,0%, steady,medium,marketing_lead,
+2026-03-26,2026-03-31,organic,0,0,keep_budget,Grow organic pipeline,0%,Content,medium,marketing_lead,
