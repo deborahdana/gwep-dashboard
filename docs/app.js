@@ -1,8 +1,16 @@
-const DATA_PATHS = {
-  weeklyKpi: "../GWEP/insights/weekly_kpi_dashboard.csv",
-  channel: "../GWEP/insights/weekly_channel_dashboard.csv",
-  recommendations: "../GWEP/insights/weekly_channel_budget_recommendations.csv",
+/**
+ * CSV lives under docs/insights/ (same folder as this site) so GitHub Pages can fetch it
+ * without ../GWEP paths or Raw GitHub / CORS issues. Canonical copies also stay in GWEP/insights/.
+ */
+const INSIGHT_FILES = {
+  weeklyKpi: "weekly_kpi_dashboard.csv",
+  channel: "weekly_channel_dashboard.csv",
+  recommendations: "weekly_channel_budget_recommendations.csv",
 };
+
+function csvUrl(fileName) {
+  return new URL(`insights/${fileName}`, window.location.href).href;
+}
 
 function parseCsv(text) {
   const lines = text.trim().split(/\r?\n/);
@@ -64,9 +72,9 @@ function latestWeekRows(rows) {
 async function boot() {
   try {
     const [weeklyKpiRows, channelRows, recommendationRows] = await Promise.all([
-      loadCsv(DATA_PATHS.weeklyKpi),
-      loadCsv(DATA_PATHS.channel),
-      loadCsv(DATA_PATHS.recommendations),
+      loadCsv(csvUrl(INSIGHT_FILES.weeklyKpi)),
+      loadCsv(csvUrl(INSIGHT_FILES.channel)),
+      loadCsv(csvUrl(INSIGHT_FILES.recommendations)),
     ]);
 
     const latestKpi = latestWeek(weeklyKpiRows);

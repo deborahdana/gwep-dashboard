@@ -1,10 +1,12 @@
 # Dashboard Site (Shareable Webpage)
 
-This static site reads data from:
+This static site reads CSV from **`docs/insights/`** (copied from `GWEP/insights/` so GitHub Pages can load them from the same origin). After updating weekly KPI files under `GWEP/insights/`, copy them into `docs/insights/` and push.
 
-- `../GWEP/insights/weekly_kpi_dashboard.csv`
-- `../GWEP/insights/weekly_channel_dashboard.csv`
-- `../GWEP/insights/weekly_channel_budget_recommendations.csv`
+Files:
+
+- `insights/weekly_kpi_dashboard.csv`
+- `insights/weekly_channel_dashboard.csv`
+- `insights/weekly_channel_budget_recommendations.csv`
 
 ## Local preview
 
