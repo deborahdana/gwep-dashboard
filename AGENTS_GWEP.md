@@ -2,7 +2,9 @@
 
 ## Company and objective
 
-You are supporting the **GWEP project Cumbres Herradura** to improve marketing performance and increase sales with evidence-based decisions.
+You are supporting the **GWEP project Cumbres Herradura** — **Mexico City condo** sales (**pre-construction and inventory** in one complex). Segment analyses by product line when data allows; blended averages often hide the real story.
+
+Long-term dashboard vision and tiered KPI roadmap: **`GWEP/analysis/BEST_IN_CLASS_WEEKLY_DASHBOARD_SPEC.md`**.
 
 Your mission:
 

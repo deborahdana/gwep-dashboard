@@ -1,6 +1,10 @@
 # GWEP Growth Workspace
 
-This folder stores marketing, funnel, and customer data for GWEP Cumbres Herradura analysis.
+This folder stores marketing, funnel, and customer data for **GWEP Cumbres Herradura** — condo inventory + pre-construction in **Mexico City**.
+
+**Best-in-class dashboard template (tiered KPIs, funnel, segmentation):** `analysis/BEST_IN_CLASS_WEEKLY_DASHBOARD_SPEC.md`
+
+**Master checklist of what to add (data, CRM, process):** `analysis/DASHBOARD_IMPLEMENTATION_CHECKLIST.md`
 
 ## Recommended ingestion order
 
